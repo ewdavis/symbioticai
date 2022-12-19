@@ -1,2 +1,2 @@
-# symbioticai.github.io
+# symbioticai
 Symbiotic AI Page Site
